@@ -6,10 +6,7 @@
 :godmode:
 :banjo:
 <!-- This content will not appear in the rendered Markdown -->
-
-
 > ### Skills
-```
 `HTML` :star::star::star::star::star:
 `CSS`  :star::star::star::star::star:
 Javascript :star::star::star:
@@ -17,7 +14,6 @@ C :star::star::star::star::star:
 Git :star::star::star::star:
 Figma :star::star::star::star:
 Photoshop :star::star::star::star::star:
-```
 
 > ### Projects
 ```
