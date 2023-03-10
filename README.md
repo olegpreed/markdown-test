@@ -1,7 +1,7 @@
 # Oleg Aroyan :magic_wand: Frontend developer
 ![MyPhoto](https://i.ibb.co/5Fm1tFL/oleg.jpg) \
 I want to build my career in the sphere of `Frontend` \
-and create modern and user-friendly websites and apps.
+and to create modern and user-friendly websites and apps.
 
 > ### Skills
 |Name|Level|
@@ -21,10 +21,10 @@ and create modern and user-friendly websites and apps.
 - [2D game](https://github.com/olegpreed/so_long)
 
 > ### Education
-```
-ffe
-fefe
-```
+|Name|Qualification|From|Till|
+|---|---|---|---|
+|School 42|Programmer|2021|Present|
+|Moscow State University|English teacher|2019|2021|
 > ### Certificates
 ```
 TKT (Teaching Knowledge Test)
