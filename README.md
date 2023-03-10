@@ -21,21 +21,17 @@ and to create modern and user-friendly websites and apps.
 - [2D game](https://github.com/olegpreed/so_long)
 
 > ### Education
-|Name|Qualification|From|Till|
-|---|---|---|---|
-|School 42|Programmer|2021|Present|
-|Moscow State University|English teacher|2019|2021|
+|Name|Qualification|Years|
+|---|---|---|
+|School 42|Programmer|2021 - Present|
+|Moscow State University|English teacher|2019 - 2021|
 > ### Certificates
-```
-TKT (Teaching Knowledge Test)
-SKILLBOX webdesign courses
-```
+`TKT (Teaching Knowledge Test)`
+`SKILLBOX webdesign courses`
 > ### Languages
-```
-English (C2)
-Spanish (B1)
-Russian (Native)
-```
+`English (C2)`
+`Spanish (B1)`
+`Russian (Native)`
 :suspect:
 :godmode:
 :banjo:
