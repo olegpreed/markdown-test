@@ -8,11 +8,11 @@ and to create modern and user-friendly websites and apps.
 |---|---|
 |`HTML` | :godmode::godmode::godmode::godmode::godmode:|
 |`CSS`  | :godmode::godmode::godmode::godmode::godmode:|
-|`Javascript`| :star::star::star:|
+|`Javascript`|:finnadie::finnadie::finnadie:|
 |`C` | :star::star::star::star::star:|
-|`Git` | :star::star::star::star:|
-|`Figma` | :star::star::star::star:|
-|`Photoshop` | :star::star::star::star::star:|
+|`Git` | :suspect::suspect::suspect::suspect:|
+|`Figma` | :suspect::suspect::suspect::suspect:|
+|`Photoshop` | :godmode::godmode::godmode::godmode::godmode:|
 
 > ### Projects
 - [JavaScript Calculator](https://github.com/olegpreed/JavaScript-Calculator)
@@ -32,5 +32,3 @@ and to create modern and user-friendly websites and apps.
 `English(C2)`
 `Spanish(B1)`
 `Russian(Native)`
-:suspect:
-:banjo:
