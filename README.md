@@ -36,7 +36,7 @@ and to create modern and user-friendly websites and apps.
 `Spanish(B1)`
 `Russian(Native)`
 ## Code :keyboard:
-My solution of Codewars challange
+Codewars challange «Does my number look big in this?»
 <table>
   <tr>
     <td><details><summary>Task</summary>
