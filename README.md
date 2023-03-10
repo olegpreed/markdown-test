@@ -1,4 +1,4 @@
-# Oleg Aroyan :magic_wand: Frontend developer
+# Oleg Aroyan :godmode: Frontend developer
 ![MyPhoto](https://i.ibb.co/5Fm1tFL/oleg.jpg) \
 I want to build my career in the sphere of `Frontend` \
 and to create modern and user-friendly websites and apps.
@@ -29,9 +29,9 @@ and to create modern and user-friendly websites and apps.
 `TKT (Teaching Knowledge Test)`
 `SKILLBOX webdesign courses`
 > ### Languages
-`English (C2)`
-`Spanish (B1)`
-`Russian (Native)`
+`English(C2)`
+`Spanish(B1)`
+`Russian(Native)`
 :suspect:
 :godmode:
 :banjo:
