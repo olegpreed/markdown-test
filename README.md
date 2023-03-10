@@ -7,7 +7,9 @@
 :banjo:
 <!-- This content will not appear in the rendered Markdown -->
 > ### Skills
-`HTML` :star::star::star::star::star: \
+|Name|Level|
+|:---|---:|
+|`HTML` | :star::star::star::star::star:|
 `CSS`  :star::star::star::star::star: \
 `Javascript` :star::star::star: \
 `C` :star::star::star::star::star: \
