@@ -9,7 +9,7 @@ and to create modern and user-friendly websites and apps.
 |`HTML` | :godmode::godmode::godmode::godmode::godmode:|
 |`CSS`  | :godmode::godmode::godmode::godmode::godmode:|
 |`Javascript`|:finnadie::finnadie::finnadie:|
-|`C` | :star::star::star::star::star:|
+|`C` | :godmode::godmode::godmode::godmode::godmode:|
 |`Git` | :suspect::suspect::suspect::suspect:|
 |`Figma` | :suspect::suspect::suspect::suspect:|
 |`Photoshop` | :godmode::godmode::godmode::godmode::godmode:|
