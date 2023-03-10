@@ -55,7 +55,8 @@ This may be True and False in your language, e.g. PHP.
 Error checking for text strings or other invalid inputs is not required, only valid positive non-zero integers will be passed into the function.
 </details>
 <details><summary>My solution</summary>
-```
+    
+```javascript
 function narcissistic(value) {
   let copy = value;
   let sum = 0;
@@ -76,5 +77,6 @@ function narcissistic(value) {
   else return false;
 }
 ```
+    
 </details>
 
