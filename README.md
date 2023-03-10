@@ -78,6 +78,7 @@ function narcissistic(value) {
   else return false;
 }
 ```
+      
 </details></td>
   </tr>
 </table>
