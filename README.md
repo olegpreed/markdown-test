@@ -1,5 +1,7 @@
 # Oleg Aroyan :magic_wand: Frontend developer
-![MyPhoto](https://i.ibb.co/5Fm1tFL/oleg.jpg) \
+|that's me|contacts|
+|---|---|
+|![MyPhoto](https://i.ibb.co/5Fm1tFL/oleg.jpg) |skipemyspace@gmail.com 📫:<br> Bangkok, Thailand 📍:<br> tg: @olegaroyan 📱:|
 I want to build my career in the sphere of `Frontend` \
 and to create modern and user-friendly websites and apps.
 
