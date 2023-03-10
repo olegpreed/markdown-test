@@ -3,7 +3,7 @@
 |---|---|
 |![MyPhoto](https://i.ibb.co/5Fm1tFL/oleg.jpg) |📫skipemyspace@gmail.com<br>📱@olegaroyan<br>📍Bangkok, Thailand|
 
-I want to build my career in the sphere of `Frontend` \
+I want to build my career in the sphere of **Frontend** \
 and to create modern and user-friendly websites and apps.
 
 > ### Skills
