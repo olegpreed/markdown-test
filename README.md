@@ -6,7 +6,7 @@
 I want to build my career in the sphere of **Frontend** \
 and to create modern and user-friendly websites and apps.
 
-> ### Skills
+## Skills
 |Name|Level|
 |---|---|
 |`HTML` | :godmode::godmode::godmode::godmode::godmode:|
@@ -17,13 +17,13 @@ and to create modern and user-friendly websites and apps.
 |`Figma` | :suspect::suspect::suspect::suspect:|
 |`Photoshop` | :godmode::godmode::godmode::godmode::godmode:|
 
-> ### Projects
+## Projects
 - [JavaScript Calculator](https://github.com/olegpreed/JavaScript-Calculator)
 - [Website prototypes](https://www.frontendmentor.io/profile/olegpreed)
 - [Website designs](https://disk.yandex.com/d/04zN-5Pv347QkQ)
 - [2D game](https://github.com/olegpreed/so_long)
 
-> ### Education
+## Education
 |Name|Qualification|Years|
 |---|---|---|
 |School 42|Programmer|2021 - Present|
@@ -31,11 +31,11 @@ and to create modern and user-friendly websites and apps.
 > ### Certificates
 `TKT (Teaching Knowledge Test)`
 `SKILLBOX webdesign courses`
-> ### Languages
+## Languages
 `English(C2)`
 `Spanish(B1)`
 `Russian(Native)`
-> ### Code
+## Code
 My solution of Codewars challange
 <details><summary>Task</summary>
 A Narcissistic Number (or Armstrong Number) is a positive number which is the sum of its own digits, each raised to the power of the number of digits in a given base. In this Kata, we will restrict ourselves to decimal (base 10).
