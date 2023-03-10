@@ -2,10 +2,10 @@
 ![MyPhoto](https://i.ibb.co/5Fm1tFL/oleg.jpg) \
 I want to build my career in the sphere of Frontend Web-development \
 and create modern and user-friendly websites and apps.
-<!-- This content will not appear in the rendered Markdown -->
+
 > ### Skills
 |Name|Level|
-|:---|---:|
+|---|---|
 |`HTML` | :star::star::star::star::star:|
 |`CSS`  | :star::star::star::star::star:|
 |`Javascript`| :star::star::star:|
@@ -15,13 +15,11 @@ and create modern and user-friendly websites and apps.
 |`Photoshop` | :star::star::star::star::star:|
 
 > ### Projects
-```
-JavaScript Calculator
-Website prototypes
-Website designs
-SO_LONG
-PUSH_SWAP
-```
+- [JavaScript Calculator](https://github.com/olegpreed/JavaScript-Calculator)
+- [Website prototypes](https://www.frontendmentor.io/profile/olegpreed)
+- [Website designs](https://disk.yandex.com/d/04zN-5Pv347QkQ)
+- [2D game](https://github.com/olegpreed/so_long)
+
 > ### Education
 ```
 ffe
