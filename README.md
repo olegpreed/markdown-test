@@ -1,4 +1,4 @@
-# Oleg Aroyan :godmode: Frontend developer
+# Oleg Aroyan :magic_wand: Frontend developer
 ![MyPhoto](https://i.ibb.co/5Fm1tFL/oleg.jpg) \
 I want to build my career in the sphere of `Frontend` \
 and to create modern and user-friendly websites and apps.
@@ -6,8 +6,8 @@ and to create modern and user-friendly websites and apps.
 > ### Skills
 |Name|Level|
 |---|---|
-|`HTML` | :star::star::star::star::star:|
-|`CSS`  | :star::star::star::star::star:|
+|`HTML` | :godmode::godmode::godmode::godmode::godmode:|
+|`CSS`  | :godmode::godmode::godmode::godmode::godmode:|
 |`Javascript`| :star::star::star:|
 |`C` | :star::star::star::star::star:|
 |`Git` | :star::star::star::star:|
@@ -33,5 +33,4 @@ and to create modern and user-friendly websites and apps.
 `Spanish(B1)`
 `Russian(Native)`
 :suspect:
-:godmode:
 :banjo:
